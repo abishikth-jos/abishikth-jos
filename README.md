@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 👋 Hi I am Mr. A, 
+#### 👋 Hi... I am Mr. A, 
 
 Also known as Hillard-har | Trackstudio 👈 My mistake 😂
 
@@ -83,5 +83,9 @@ ___
 <br />
 <br />
 
+# <p align="center">Mʀ. A
+
+[<p align="center">
+<img src="https://telegra.ph/file/e59cf7c2d8cea81680e46.jpg">](https://telegram.dog/Trackstudio)
 
 ---
