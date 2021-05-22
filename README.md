@@ -52,7 +52,6 @@ Also known as Hillard-har | Trackstudio 👈 My mistake 😂
 👉 Drawing 
 
 👉 Designing UI
-
 ```
 
 
@@ -71,11 +70,13 @@ Also known as Hillard-har | Trackstudio 👈 My mistake 😂
 
 
 
-### Stats ⚡️
+#### 🔰 Current Status
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hillard-Har&show_icons=true&include_all_commits=true&theme=monokai&cache_seconds=86400)
 
 ___
+
+#### Most used Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-Har&layout=compact)](https://github.com/Hillard-har)
 
