@@ -33,12 +33,21 @@ Here are some ideas to get you started:
 Also known as Hillard-har | Trackstudio <- my mistake 😂
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chris-Carlo/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hillard-Har/&title=Profile%20Views)
 
-### About Me 🙋🏻‍♂️
-```python
-NAME = "Mr. A"
-HOBBIES = ['Developer','Coder','Programmer','Web Designer','Noob']
+###🥰 My Hobbies 
+
+```
+⚜️ HOBBIES 
+
+👉 Creating Electrical Electronic circuits
+
+👉 Programing (Mainly python) 
+
+👉 Drawing 
+
+👉 Designing UI
+
 ```
 
 
