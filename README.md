@@ -45,9 +45,9 @@ Also known as Hillard-har | Trackstudio 👈 My mistake 😂
 ```
 ⚜️ HOBBIES 
 
-👉 Creating Electrical Electronic circuits
+👉 Creating Electrical/Electronic circuits
 
-👉 Programing (Mainly python) 
+👉 Programing ( Mainly python <Love to learn more> ) 
 
 👉 Drawing 
 
@@ -79,10 +79,8 @@ ___
 #### Most used Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-Har&layout=compact)](https://github.com/Hillard-har)
-
 <br />
 <br />
-
 # <p align="center">Mʀ. A
 
 [<p align="center">
