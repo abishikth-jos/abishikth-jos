@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Hillard Har](https://visi.tk/Hillard-har) 👋
+### Hi there, I'm [Mr. A](https://visi.tk/Hillard-har) 👋
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chris-Carlo/&title=Profile%20Views)
 
 ### About Me 🙋🏻‍♂️
 ```python
-NAME = "Hillard Har"
+NAME = "Mr. A"
 HOBBIES = ['Developer','Coder','Programmer','Web Designer','Noob']
 ```
 
