@@ -83,6 +83,5 @@ ___
 <br />
 <br />
 
-https://telegram.dog/Trackstudio
 
 ---
