@@ -88,7 +88,4 @@ ___
 [<p align="center">
 <img src="https://telegra.ph/file/e59cf7c2d8cea81680e46.jpg">](https://telegram.dog/Trackstudio)
 
-[<p align="center">
-<img src="https://images.app.goo.gl/7Cco6ZR323wFLXEj7">](https://telegram.dog/Trackstudio) 
-
 ---
