@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 #### 👋 Hi... I am Mʀ. A, 
 
-##### <i>Real Name 𝙰𝚋𝚒𝚜𝚑𝚒𝚔𝚝𝚑</i> 
-
 Also known as Hillard-har | Trackstudio 👈 My mistake 😂
 
 
@@ -83,6 +81,7 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-Har&layout=compact)](https://github.com/Hillard-har)
 <br />
 <br />
+
 # <p align="center">Mʀ. A
 
 [<p align="center">
