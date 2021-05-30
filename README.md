@@ -76,15 +76,20 @@ Also known as Hillard-har | Trackstudio 👈 My mistake 😂
 
 ___
 
-#### Most used Language 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-Har&layout=compact)](https://github.com/Hillard-har)
-<br />
-<br />
 
 # <p align="center">Mʀ. A
 
 [<p align="center">
 <img src="https://telegra.ph/file/e59cf7c2d8cea81680e46.jpg">](https://telegram.dog/Trackstudio)
 
+
+
+#### <i>Contact Me Through [@Ts_Bots](https://telegram.me/Ts_bots)</i> 
+
 ---
+
+#### Most used Language 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-bots&layout=compact)](https://github.com/Ts-bots)
+<br />
+<br />
