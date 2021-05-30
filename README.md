@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### 👋 Hi... I am Mʀ. A, 
 
-Also known as Hillard-har | Trackstudio 👈 My mistake 😂
+Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 
 
 
