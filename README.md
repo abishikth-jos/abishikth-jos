@@ -93,7 +93,7 @@ ___
 
 <p align="center">
     <a href="https://t.me/Trackstudio">
-        <img alt="GPL3" src ="https://user-images.githubusercontent.com/73195851/135703789-53d724c3-5021-47b2-b8b6-1e543962ed9b.gif" width="340" height="214"/>
+        <img alt="GPL3" src ="https://telegra.ph/file/c4f778ccfc576a954dd20.gif" width="340" height="214"/>
     </a>
 </p>
 
