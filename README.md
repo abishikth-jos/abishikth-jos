@@ -93,7 +93,7 @@ ___
 
 <p align="center">
     <a href="https://t.me/Trackstudio">
-        <img alt="GPL3" src ="https://telegra.ph/file/c4f778ccfc576a954dd20.gif" width="340" height="214"/>
+        <img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/>
     </a>
 </p>
 
