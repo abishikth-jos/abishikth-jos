@@ -75,7 +75,7 @@ Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 
 #### 🔰 Current Status
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hillard-Har&show_icons=true&include_all_commits=true&theme=monokai&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hillard-Har&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
 
 ___
 
