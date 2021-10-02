@@ -90,7 +90,7 @@ ___
 
 <p align="center">
     <a href="https://t.me/Trackstudio">
-        <img alt="GPL3" src ="https://telegra.ph/file/c4f778ccfc576a954dd20.gif" width="340" height="214"/>
+        <img alt="GPL3" src ="https://telegra.ph/file/8d8a3052f8e7ad6b85334.mp4" width="340" height="214"/>
     </a>
 </p>
 
