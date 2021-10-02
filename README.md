@@ -1,7 +1,5 @@
 
 
-https://user-images.githubusercontent.com/73195851/135703441-099e54f9-8d3e-4354-94db-42a0eabb533f.mp4
-
 
 
 <!--
