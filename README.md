@@ -42,7 +42,12 @@ Here are some ideas to get you started:
 
 ### Major works on Telegram 
 
-- [see here](https://telegram.me/Ts_bots) 
+<p align="left">
+    <a href="https://t.me/Trackstudio">
+        <img alt="GPL3" src ="https://telegra.ph/file/1057ced6741caa2c640fa.jpg" width="115" height="65"/>
+    </a>
+</p>
+
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abishikth-jos/&title=Profile%20Views)
 
