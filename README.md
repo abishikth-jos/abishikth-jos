@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### 👋 Hi... I am Aʙɪsʜɪᴋᴛʜ Jᴏs, 
+#### 👋 My name is Abishikth Jos 
 
 
 
@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 
 
 
-#### 🥰 My Hobbies 
+#### 🥰 Who I am ? 
 
 ```
-⚜️ HOBBIES 
+⚜️ I am a 
 
-👉 Creating Electrical/Electronic circuits
+👉 EE Engineer 
 
-👉 Programing ( Mainly python <Love to learn more> ) 
+👉 Programmer ( Mainly python <Love to learn more> ) 
 
-👉 Drawing 
+👉 Artist (Love pencil drawing) 
 
-👉 Designing UI
+👉 Logo Designer
 ```
 
 
