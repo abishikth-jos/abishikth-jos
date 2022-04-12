@@ -42,7 +42,7 @@ ___
 #### Major works on Telegram 
 
 <p align="left">
-    <a href="https://t.me/Trackstudio">
+    <a href="https://t.me/Ts_bots/8">
         <img alt="GPL3" src ="https://telegra.ph/file/3625f317900c074861c9d.jpg" width="110" height="45"/>
     </a>
 </p>
