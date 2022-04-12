@@ -37,16 +37,6 @@ ___
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abishikth-jos&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
 ___
- 
-
-#### Major works on Telegram 
-
-<p align="left">
-    <a href="https://t.me/Ts_bots/8">
-        <img alt="GPL3" src ="https://telegra.ph/file/3625f317900c074861c9d.jpg" width="110" height="45"/>
-    </a>
-</p>
-
 
 
 # <p align="center">Aʙɪsʜɪᴋᴛʜ Jᴏs
@@ -67,8 +57,18 @@ ___
 </p>
 
 
+
+#### Major works on Telegram 
+
+<p align="left">
+    <a href="https://t.me/Ts_bots/8">
+        <img alt="GPL3" src ="https://telegra.ph/file/3625f317900c074861c9d.jpg" width="110" height="45"/>
+    </a>
+</p>
+ 
 #### Most used Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishikth-jos&layout=compact)](https://github.com/abishikth-jos)
 <br />
 <br />
+
