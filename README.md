@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 
 #### 👋 My name is Abishikth Jos 
 
-- 🔭 I’m currently working on @ScreenShot | Ts Bot
+
+🔭 I’m currently working on 
+
+[@ScreenShot | Ts Bot](https://t.me/Screenshot_Ts_Bot) 
 
 ### Major works on Telegram 
 
