@@ -1,59 +1,7 @@
 
-
-
-
-
-<!--
-**Hillard-har/Hillard-Har** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
-
-
-
-<!--
-**Hillard Har/HH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
-
-#### 👋 My name is Abishikth Jos 
-
-
-🔭 I’m currently working on 
-
-[@ScreenShot | Ts Bot](https://t.me/Screenshot_Ts_Bot) 
-
-### Major works on Telegram 
-
-<p align="left">
-    <a href="https://t.me/Trackstudio">
-        <img alt="GPL3" src ="https://telegra.ph/file/1057ced6741caa2c640fa.jpg" width="115" height="65"/>
-    </a>
-</p>
-
-
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abishikth-jos/&title=Profile%20Views)
 
-
-
-#### 🥰 Who I am ? 
+### 👋 My name is Abishikth Jos  
 
 ```
 ⚜️ I am a 
@@ -65,8 +13,10 @@ Here are some ideas to get you started:
 👉 Artist (Love pencil drawing) 
 
 👉 Logo Designer
-```
 
+```
+ 
+___
 
 #### 💻 Skills 
 
@@ -81,13 +31,22 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-
+___
 
 #### 🔰 Current Status
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abishikth-jos&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
-
 ___
+ 
+
+#### Major works on Telegram 
+
+<p align="left">
+    <a href="https://t.me/Trackstudio">
+        <img alt="GPL3" src ="https://telegra.ph/file/3625f317900c074861c9d.jpg" width="110" height="45"/>
+    </a>
+</p>
+
 
 
 # <p align="center">Aʙɪsʜɪᴋᴛʜ Jᴏs
