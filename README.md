@@ -35,11 +35,9 @@ Here are some ideas to get you started:
 
 #### 👋 Hi... I am Aʙɪsʜɪᴋᴛʜ Jᴏs, 
 
-Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 
 
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hillard-Har/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abishikth-jos/&title=Profile%20Views)
 
 
 
@@ -75,7 +73,7 @@ Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 
 #### 🔰 Current Status
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hillard-Har&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=abishikth-jos&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
 
 ___
 
@@ -100,6 +98,6 @@ ___
 
 #### Most used Language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-har&layout=compact)](https://github.com/Hillard-har)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishikth-jos&layout=compact)](https://github.com/abishikth-jos)
 <br />
 <br />
