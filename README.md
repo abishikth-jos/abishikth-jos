@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 
 #### 👋 My name is Abishikth Jos 
 
+- 🔭 I’m currently working on @ScreenShot | Ts Bot
 
+### Major works on Telegram 
+
+- [see here](https://telegram.me/Ts_bots) 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abishikth-jos/&title=Profile%20Views)
 
