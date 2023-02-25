@@ -26,15 +26,7 @@
    <a href="https://heroku.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/heroku.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 </details>
-
-
-<details>
-    <summary>Top Languages</summary>
-    <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishikth-jos&layout=compact)](https://github.com/abishikth-jos)
-
-</details> 
+ 
 
 <details>
   <summary>Activity Metrics</summary>
