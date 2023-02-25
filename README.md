@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/abishikth-jos"><img src="https://komarev.com/ghpvc/?username=abishikth-jos&label=Profile%20views&color=0e75b6&style=flat" alt="abishikth-jos" /></a> </p>
 
 
-<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abishikth Jos</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abishikth Jos</h2>
 
 
 <details>
@@ -48,6 +48,20 @@
 <p align="center">
     <a href="https://github.com/abishikth-jos"><img src="https://github-readme-stats.vercel.app/api?username=abishikth-jos&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400" alt="abishikth-jos" /></a> 
 </p> 
+
+
+<p align="left">
+   <a href="https://github.com/abishikth-jos"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVQ9qVnYozQKhL8GnciOtUFosUpCIG5IBJg&usqp=CAU" width="20" height="15" alt="abishikth-jos" /></a> <b>YouTube Videos</b>
+</p> 
+
+<!-- YOUTUBE:START -->
+- [Ts Bots - Official Trailer](https://youtu.be/TOtOQ2czg7g)
+- [AutoForward | Ts Bot | Tutorial Part-1 | Ts Bots](https://youtu.be/6ts9qN9JgLk)
+- [AutoForward | Ts Bot | Tutorial Part-2 | Ts Bots](https://youtu.be/qrPCNhd-33g)
+- [AutoCaption | Ts Bot | Tutorial Part-1 | Ts Bots](https://youtu.be/YlwOsVcVuHM)
+- [STEM | Ts Bots](https://www.youtube.com/watch?v=_xuptk2KUbk)
+<!-- YOUTUBE:END -->
+- [more videos...](https://youtube.com/@trackstudio7431)
 
 <p align="center">
     <a href="https://t.me/Trackstudio"><img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/></a>
