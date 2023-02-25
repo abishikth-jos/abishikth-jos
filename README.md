@@ -65,11 +65,14 @@
 
 <p align="center">
     <a href="https://t.me/Trackstudio"><img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/></a>
+
+</p> 
+
+<p align="center">
     <a href="https://t.me/Ts_Bots"><img alt="GPL3" src ="https://img.icons8.com/fluent/48/000000/telegram-app.png" /> </a>
     <a href="https://instagram.com/anylink_movies?igshid=YmMyMTA2M2Y="><img alt="GPL3" src ="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
     <a href="https://t.me/Ts_bots/8"><img alt="GPL3" src ="https://telegra.ph/file/3625f317900c074861c9d.jpg" width="110" height="45" /> </a>
-
-</p> 
+</p>
 
 -----
 
