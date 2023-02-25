@@ -59,8 +59,4 @@
 
 -----
 
-###### <p align="center"><i>Contact Me Through [@Ts_Bots](https://telegram.me/Ts_bots)</i></p>
-
-<p align="center">
-    <a href="https://t.me/Trackstudio"><img alt="GPL3" src ="https://te.legra.ph/file/defeb0a30e8e3857b523c.jpg" width="100" height="100" /></a>  
-</p>
+###### <p align="left"><i>Contact Me Through [@Ts_Bots](https://telegram.me/Ts_bots)</i></p>
