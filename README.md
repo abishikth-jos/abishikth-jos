@@ -37,9 +37,6 @@
 
 ---
 
-<p align="center">
-    <a href="https://github.com/abishikth-jos"><img src="https://github-readme-stats.vercel.app/api?username=abishikth-jos&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400" alt="abishikth-jos" /></a> 
-</p> 
 
 
 <p align="left">
